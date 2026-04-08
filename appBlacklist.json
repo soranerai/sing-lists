@@ -1,0 +1,49 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "package_name": [
+        "ru.sberbankmobile",
+        "com.idamob.tinkoff.android",
+        "ru.alfabank.mobile.android",
+        "ru.vtb24.mobilebanking.android",
+        "ru.sovcombank.halva.android",
+        "ru.nspk.mirpay",
+        "ru.yandex.taxi",
+        "ru.yandex.yandexmaps",
+        "ru.yandex.music",
+        "ru.kinopoisk",
+        "ru.yandex.market",
+        "com.yandex.browser",
+        "ru.yandex.searchplugin",
+        "com.vkontakte.android",
+        "ru.ok.android",
+        "ru.mail.mailapp",
+        "ru.rutube.video",
+        "com.vkontakte.video",
+        "ru.yandex.zen",
+        "com.wildberries.ru",
+        "ru.ozon.app.android",
+        "com.avito.android",
+        "ru.sbermegamarket.app",
+        "ru.instamart",
+        "ru.gosuslugi.gosuslugi",
+        "ru.dublgis.dgismobile",
+        "ru.vk.store",
+        "ru.mts.mylogin",
+        "ru.beeline.services",
+        "ru.megafon.mlk",
+        "ru.tele2.mytele2",
+        "ru.rt.homenet",
+        "ru.tinkoff.investments",
+        "ru.sberbank.investments",
+        "ru.raiffeisen.mobileandroid",
+        "com.ubrr.ui",
+        "ru.vtb.invest",
+        "ru.gazprombank.android.mobilebanking",
+        "ru.perekrestok.app",
+        "ru.magnit.app.android"
+      ]
+    }
+  ]
+}
