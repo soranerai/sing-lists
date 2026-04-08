@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain_prefix": [
+      "domain_suffix": [
         "ifconfig.me",
         "ifconfig.co",
         "icanhazip.com",
