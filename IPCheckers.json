@@ -1,0 +1,44 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_prefix": [
+        "ifconfig.me",
+        "ifconfig.co",
+        "icanhazip.com",
+        "ident.me",
+        "eth0.me",
+        "ip.sb",
+        "ipify.org",
+        "api.ipify.org",
+        "ipecho.net",
+        "checkip.amazonaws.com",
+        "whatismyip.akamai.com",
+        "ipinfo.io",
+        "curlmyip.org",
+        "wgetip.com",
+        "ipaddress.sh",
+        "ip.tyk.nu",
+        "l2.io",
+        "ip.42.pl",
+        "myip.com",
+        "2ip.ru",
+        "whoer.net",
+        "ip-api.com",
+        "ip.me",
+        "myexternalip.com",
+        "ip.shoutcloud.io",
+        "ip4.me",
+        "ip6.me",
+        "api.my-ip.io",
+        "dnsleaktest.com",
+        "showmyip.com",
+        "myip.ru",
+        "ident.me",
+        "tnx.nl",
+        "ipecho.net",
+        "diag.meo.pt"
+      ]
+    }
+  ]
+}
