@@ -1,8 +1,12 @@
 {
-  "version": 1,
+  "version": 2,
   "rules": [
     {
       "domain_suffix": [
+        "ipv4-internet.yandex.net",
+        "ipv6-internet.yandex.net",
+        "ipapi.is",
+        "iplocate.io",
         "ifconfig.me",
         "ifconfig.co",
         "icanhazip.com",
