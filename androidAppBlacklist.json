@@ -96,7 +96,8 @@
         "starter.pokemoon.client",
         "today.maxi",
         "vesnasoft.teleform",
-        "www.metro.com"
+        "www.metro.com",
+        "com.notcvnt.rknhardering"
       ],
       "package_name_regex": [
         "^com\\.avito.*",
