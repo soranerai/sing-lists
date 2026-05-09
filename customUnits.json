@@ -3,7 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
-        "osboxes.org"
+        "osboxes.org",
+        "app.quiver.ai"
       ]
     }
   ]
